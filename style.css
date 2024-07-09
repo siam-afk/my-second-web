@@ -114,12 +114,3 @@ padding: 130px;
     margin-right: 48px;
 
 }
-.sm-four{
-    width: 30%;
-    height: 240px;
-    display: flex;
-    padding: 3.767px 13.664px 19.221px 0.941px;
-    align-items: center;
-    flex-shrink: 0;
-    padding-left: 110px;
-}
