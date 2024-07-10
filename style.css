@@ -611,12 +611,15 @@ background: rgba(255, 223, 0, 0.05);
     justify-content: space-between;
     align-items: center;
     align-self: stretch;
+    font-weight: 600;
+    
 }
 .about-1 p{
     display: flex;
     width: 456px;
     align-items: center;
     gap: 16px;
+   
 }
 
 .about-1 ul {
