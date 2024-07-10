@@ -11,7 +11,7 @@
 body{
     font-family: "Azeret Mono", monospace;
     width: 100%;
-    height: 5245px; 
+
 }
 
 .tms{
@@ -21,7 +21,6 @@ body{
     margin-top: 100px;    background-image: url(assets/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -56,7 +55,9 @@ body{
     font-style: normal;
     font-weight: 400;
 }
-
+.tms-five a{
+    text-decoration: none;
+}
 .tms-five p{
     color: #FFF;
     text-align: center;
@@ -131,7 +132,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 2px solid black;
+ 
 }
 
 .sm-1{
@@ -595,7 +596,7 @@ background: rgba(255, 223, 0, 0.05);
 }
 
 
-.about{
+#about{
     display: flex;
     width: 1440px;
     padding: 32px 150px;
@@ -611,7 +612,7 @@ background: rgba(255, 223, 0, 0.05);
     align-items: center;
     align-self: stretch;
 }
-.about p{
+.about-1 p{
     display: flex;
     width: 456px;
     align-items: center;
